@@ -1,0 +1,40 @@
+{
+  "replacement_rules": [
+    {
+      "name": "layer1",
+      "replace_ids": [
+        87491547040029
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/terror-realm-og-ck-over-forasken-og-ck/raw/refs/heads/main/assets/layer%201.ogg"
+    },
+    {
+      "name": "layer2",
+      "replace_ids": [
+        131661489381555
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/terror-realm-og-ck-over-forasken-og-ck/raw/refs/heads/main/assets/layer%202.ogg"
+    },
+    {
+      "name": "layer3",
+      "replace_ids": [
+        116497203100654
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/terror-realm-og-ck-over-forasken-og-ck/raw/refs/heads/main/assets/layer%203.ogg"
+    },
+    {
+      "name": "chase",
+      "replace_ids": [
+        76256843877949
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/someonewhoexistsinthisworld/terror-realm-og-ck-over-forasken-og-ck/raw/refs/heads/main/assets/chase.ogg"
+    }
+  ]
+}
